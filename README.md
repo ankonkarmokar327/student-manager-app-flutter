@@ -49,22 +49,7 @@ Dart
 SharedPreferences
 StatefulWidget
 OOP (Object Oriented Programming)
-📂 Project Structure
-lib
-│
-├── main.dart
-│
-├── models
-│   └── student_model.dart
-│
-├── services
-│   ├── save_insert.dart
-│   └── read_get.dart
-│
-└── screens
-    ├── login_screen.dart
-    ├── student_ui.dart
-    └── add_student_screen.dart
+
 📸 Screenshots
 Login Screen
 Login Screen
